@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2011</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>DSC00405</title>
+            <link>slides/DSC00405.JPG#</link>
+            <pubDate>Sun, 17 Oct 2021 22:19:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC00405.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC00405.JPG" width="900" height="505"/>
+            <jalbum:exif originalDate="7/17/11 12:52 PM" cameraMake="SONY" cameraModel="SLT-A55V"/>
+            <guid isPermaLink="false">slides/DSC00405.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00411</title>
+            <link>slides/DSC00411.JPG#</link>
+            <pubDate>Sun, 17 Oct 2021 22:19:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC00411.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC00411.JPG" width="900" height="505"/>
+            <jalbum:exif originalDate="7/17/11 1:56 PM" cameraMake="SONY" cameraModel="SLT-A55V"/>
+            <guid isPermaLink="false">slides/DSC00411.JPG</guid>
+        </item>
+        <item>
+            <title>p20110806_190842_088</title>
+            <link>slides/p20110806_190842_088.jpg#</link>
+            <pubDate>Sun, 17 Oct 2021 22:19:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p20110806_190842_088.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/p20110806_190842_088.jpg" width="900" height="505"/>
+            <jalbum:exif originalDate="8/6/11 7:08 PM" cameraMake="SONY" cameraModel="SLT-A55V"/>
+            <guid isPermaLink="false">slides/p20110806_190842_088.jpg</guid>
+        </item>
+        <item>
+            <title>DSC00467</title>
+            <link>slides/DSC00467.JPG#</link>
+            <pubDate>Sun, 17 Oct 2021 22:19:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC00467.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC00467.JPG" width="900" height="505"/>
+            <jalbum:exif originalDate="7/17/11 3:44 PM" cameraMake="SONY" cameraModel="SLT-A55V"/>
+            <guid isPermaLink="false">slides/DSC00467.JPG</guid>
+        </item>
+        <item>
+            <title>DSC00503</title>
+            <link>slides/DSC00503.JPG#</link>
+            <pubDate>Sun, 17 Oct 2021 22:19:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC00503.JPG" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/DSC00503.JPG" width="900" height="505"/>
+            <jalbum:exif originalDate="7/24/11 3:52 PM" cameraMake="SONY" cameraModel="SLT-A55V"/>
+            <guid isPermaLink="false">slides/DSC00503.JPG</guid>
+        </item>
+        <item>
+            <title>p20110423.1504_124</title>
+            <link>slides/p20110423.1504_124.jpg#</link>
+            <pubDate>Sun, 17 Oct 2021 22:19:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p20110423.1504_124.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/p20110423.1504_124.jpg" width="899" height="600"/>
+            <jalbum:exif originalDate="4/7/11 3:57 PM" cameraMake="FUJIFILM" cameraModel="FinePix S1000fd   "/>
+            <guid isPermaLink="false">slides/p20110423.1504_124.jpg</guid>
+        </item>
+        <item>
+            <title>p20110501.1304_001</title>
+            <link>slides/p20110501.1304_001.jpg#</link>
+            <pubDate>Sun, 17 Oct 2021 22:19:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p20110501.1304_001.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/p20110501.1304_001.jpg" width="899" height="600"/>
+            <jalbum:exif originalDate="4/15/11 1:36 PM" cameraMake="FUJIFILM" cameraModel="FinePix S1000fd   "/>
+            <guid isPermaLink="false">slides/p20110501.1304_001.jpg</guid>
+        </item>
+        <item>
+            <title>p20110501.1604_020</title>
+            <link>slides/p20110501.1604_020.jpg#</link>
+            <pubDate>Sun, 17 Oct 2021 22:19:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p20110501.1604_020.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/p20110501.1604_020.jpg" width="899" height="600"/>
+            <jalbum:exif originalDate="4/15/11 4:59 PM" cameraMake="FUJIFILM" cameraModel="FinePix S1000fd   "/>
+            <guid isPermaLink="false">slides/p20110501.1604_020.jpg</guid>
+        </item>
+        <item>
+            <title>p20110912_200440_073</title>
+            <link>slides/p20110912_200440_073.jpg#</link>
+            <pubDate>Sun, 17 Oct 2021 22:19:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p20110912_200440_073.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/p20110912_200440_073.jpg" width="900" height="506"/>
+            <jalbum:exif originalDate="9/12/11 8:04 PM" cameraMake="SONY" cameraModel="SLT-A55V"/>
+            <guid isPermaLink="false">slides/p20110912_200440_073.jpg</guid>
+        </item>
+        <item>
+            <title>p20110912_202154_076</title>
+            <link>slides/p20110912_202154_076.jpg#</link>
+            <pubDate>Sun, 17 Oct 2021 22:19:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p20110912_202154_076.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/p20110912_202154_076.jpg" width="900" height="506"/>
+            <jalbum:exif originalDate="9/12/11 8:21 PM" cameraMake="SONY" cameraModel="SLT-A55V"/>
+            <guid isPermaLink="false">slides/p20110912_202154_076.jpg</guid>
+        </item>
+        <item>
+            <title>p20111023_121020_135</title>
+            <link>slides/p20111023_121020_135.jpg#</link>
+            <pubDate>Sun, 17 Oct 2021 22:19:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p20111023_121020_135.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/p20111023_121020_135.jpg" width="900" height="505"/>
+            <jalbum:exif originalDate="10/23/11 12:10 PM" cameraMake="SONY" cameraModel="SLT-A55V"/>
+            <guid isPermaLink="false">slides/p20111023_121020_135.jpg</guid>
+        </item>
+        <item>
+            <title>p20111119_154831_020</title>
+            <link>slides/p20111119_154831_020.jpg#</link>
+            <pubDate>Sun, 17 Oct 2021 22:19:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p20111119_154831_020.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/p20111119_154831_020.jpg" width="900" height="505"/>
+            <jalbum:exif originalDate="11/19/11 3:48 PM" cameraMake="SONY" cameraModel="SLT-A55V"/>
+            <guid isPermaLink="false">slides/p20111119_154831_020.jpg</guid>
+        </item>
+        <item>
+            <title>p20111119_164249_055</title>
+            <link>slides/p20111119_164249_055.jpg#</link>
+            <pubDate>Sun, 17 Oct 2021 22:19:01 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p20111119_164249_055.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/p20111119_164249_055.jpg" width="900" height="505"/>
+            <jalbum:exif originalDate="11/19/11 4:42 PM" cameraMake="SONY" cameraModel="SLT-A55V"/>
+            <guid isPermaLink="false">slides/p20111119_164249_055.jpg</guid>
+        </item>
+    </channel>
+</rss>

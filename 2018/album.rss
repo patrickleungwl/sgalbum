@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>2018</title>
+   	<link>..</link>
+        <generator>jAlbum 10</generator>
+   		<description></description>
+        <item>
+            <title>p20180829_123239</title>
+            <link>slides/p20180829_123239.jpg#</link>
+            <pubDate>Sun, 17 Oct 2021 22:19:03 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p20180829_123239.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/p20180829_123239.jpg" width="800" height="600"/>
+            <guid isPermaLink="false">slides/p20180829_123239.jpg</guid>
+        </item>
+        <item>
+            <title>p20180829_124718</title>
+            <link>slides/p20180829_124718.jpg#</link>
+            <pubDate>Sun, 17 Oct 2021 22:19:03 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p20180829_124718.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/p20180829_124718.jpg" width="800" height="600"/>
+            <guid isPermaLink="false">slides/p20180829_124718.jpg</guid>
+        </item>
+        <item>
+            <title>p20180902_142022</title>
+            <link>slides/p20180902_142022.jpg#</link>
+            <pubDate>Sun, 17 Oct 2021 22:19:03 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p20180902_142022.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/p20180902_142022.jpg" width="900" height="506"/>
+            <guid isPermaLink="false">slides/p20180902_142022.jpg</guid>
+        </item>
+        <item>
+            <title>p20180903_164202</title>
+            <link>slides/p20180903_164202.jpg#</link>
+            <pubDate>Sun, 17 Oct 2021 22:19:03 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p20180903_164202.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/p20180903_164202.jpg" width="900" height="506"/>
+            <guid isPermaLink="false">slides/p20180903_164202.jpg</guid>
+        </item>
+        <item>
+            <title>p20180903_163634</title>
+            <link>slides/p20180903_163634.jpg#</link>
+            <pubDate>Sun, 17 Oct 2021 22:19:03 -0400</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/p20180903_163634.jpg" width="140" height="100"/>
+            <media:content type="image/jpeg" url="slides/p20180903_163634.jpg" width="900" height="506"/>
+            <guid isPermaLink="false">slides/p20180903_163634.jpg</guid>
+        </item>
+    </channel>
+</rss>
